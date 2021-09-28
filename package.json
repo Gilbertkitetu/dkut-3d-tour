@@ -1,0 +1,43 @@
+{
+  "name": "dkut-3d-tour",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "bootstrap": "^5.1.1",
+    "drei": "^2.2.21",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.6.4",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "react-three-fiber": "^6.0.13",
+    "three": "^0.132.2",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
